@@ -4,4 +4,32 @@ https://zo9070.vercel.app
 # Ready to try? Use it now!
 ## loadstring(game:HttpGet("https://raw.githubusercontent.com/John142-dot/adonisbypass.lua/refs/heads/main/obfuscatedscriptxd",true))()
 
-https://raw.githubusercontent.com/John142-dot/adonisbypass.lua/refs/heads/main/2024100315230001.jpg
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Display Image Example</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #1e1e1e;
+            color: white;
+            margin: 0;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border: 5px solid #ff0000; /* Optional: adds a border to the image */
+        }
+    </style>
+</head>
+<body>
+
+    <img src="https://via.placeholder.com/600" alt= "https://raw.githubusercontent.com/John142-dot/adonisbypass.lua/refs/heads/main/2024100315230001.jpg">
+
+</body>
+</html>
